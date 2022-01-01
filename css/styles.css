@@ -1,6 +1,6 @@
-body{
-  background-color: #D3E4CD;
 
+body{
+  background-image: linear-gradient(rgba(143, 233, 233, 1) , rgba(186, 252, 252, 1) , rgba(255, 255, 255, 1));
 }
 hr{
   border-style: none;
@@ -18,3 +18,4 @@ h2{
   color: #557C55;
 
 }
+
